@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+
+body{
+	background-color:DarkSlateGrey;
+	font-family: 'Sofia',cursive,Open Sans;
+}
+h1{
+	font-family:'Permanent marker',cursive !important;
+	font-size: 50px;
+}
+.main{
+	text-align:center;
+}
+.wikiers{
+	width:700px;
+	margin:auto;
+	overflow: hidden;
+	margin-top:200px;
+}
+.random{
+	float:left;
+	font-size: 25px;
+	
+}
+a{
+	text-decoration: none;
+	color:Coral;
+	
+}
+a:hover{
+	color:DeepSkyBlue !important;
+}
+.searcher{
+	float:right;
+	font-size:25px;
+	cursor:pointer;
+	color:BurlyWood;
+
+}
+.searcher:hover{
+	color:Crimson;
+}
+.search_place{
+	visibility:hidden;
+}
+.search_bar{
+	float:right;
+	margin-right: 45px;
+	width: 40%;
+	height:28px;
+	border:3px solid #00B4CC;
+	border-radius:5px;
+}
+.searchButton {
+	position: relative;
+  float:right;
+  left:329px;
+  width: 40px;
+  height: 36px;
+  border: 1px solid #00B4CC;
+  background: #00B4CC;
+  text-align: center;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 20px;
+margin:0px !important;
+
+}
+h2{
+	margin-top: 25px;
+	color:DarkViolet;
+}
